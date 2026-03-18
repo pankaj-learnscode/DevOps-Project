@@ -61,23 +61,8 @@ This is **not a demo-only project** — it follows **industry-style architecture
 
 ## 📂 Repository Structure
 
-RESTAURANT-MANAGEMENT-SYSTEM/
-│
-├── backend/                 # Node.js + Express API
-├── frontend/                # React Application
-│
-├── terraform/               # Infrastructure as Code (AWS)
-│   ├── main.tf
-│   ├── provider.tf
-│   ├── variables.tf
-│   ├── outputs.tf
-│   ├── terraform.tfvars
-│   └── terraform.tfstate
-│
-├── docker-compose.yml       # Multi-container setup
-├── .gitignore
-└── README.md
----
+<img width="354" height="483" alt="image" src="https://github.com/user-attachments/assets/2922d89a-eb59-443e-ba90-3c448d719ddf" />
+
 
 ## 🧪 Application Features
 
@@ -167,6 +152,18 @@ Terraform is used to provision:
 ---
 Final Outputs 
 <img width="1366" height="609" alt="image" src="https://github.com/user-attachments/assets/bbda058f-51a9-4bbd-ba89-4e9551a8864f" />
+
+<img width="1366" height="697" alt="image" src="https://github.com/user-attachments/assets/cd7cb22b-f899-4c0f-a688-8a53c37f4e5e" />
+
+<img width="1366" height="615" alt="image" src="https://github.com/user-attachments/assets/7b10c6f9-f42d-4bb4-b1ce-c875728f043f" />
+
+<img width="1364" height="616" alt="image" src="https://github.com/user-attachments/assets/b49cb916-49ea-4892-b11c-66d396fbd4b4" />
+
+<img width="1366" height="511" alt="image" src="https://github.com/user-attachments/assets/b4c968ba-35ce-4c0c-8293-4f32d8409def" />
+
+
+
+
 
 
 
