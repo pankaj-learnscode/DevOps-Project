@@ -28,7 +28,7 @@ const ResetPassLink = () => {
     setLoading(true);
 
     try {
-      const response = await axios.post(`${import.meta.env.VITE_BASE_URL}/api/v1/reset-password/${token}`, {
+      const response = await axios.post(`${import.meta.env.VITE_BASE_URL}/reset-password/${token}`, {
         password: newPassword,
       });
 

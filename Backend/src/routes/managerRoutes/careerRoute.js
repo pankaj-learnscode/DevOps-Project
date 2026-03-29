@@ -5,7 +5,7 @@ const { createVacancy , getAllVacancy , deleteVacancy } = require("../../control
 const adminAuthMiddleware = require("../../middleware/adminAuthMiddleware");
 const verifyToken = require("../../middleware/verifyTokenMiddleware");
 router.post('/create-vacancy', adminAuthMiddleware , verifyToken ,createVacancy);
-router.get('/get-vacancy' , getAllVacancy);
+router.get('/' , getAllVacancy);
 router.delete('/delete-vacancy', adminAuthMiddleware , verifyToken , deleteVacancy);
 
 module.exports = router;
